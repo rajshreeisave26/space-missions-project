@@ -1,6 +1,9 @@
 # space-missions-project
 End-to-end data analysis project featuring a custom KPI dashboard, structured data cleaning, and predictive metrics for future space exploration trends
 
+![Space Mission Analysis Dashboard](Screenshot%202026-09-28%20141617.png)
+
+
 # 🚀 Space Mission Data Analysis Project
 
 An end-to-end data analysis project exploring a dataset of **500 space missions** spanning from 2025 to 2034. This project tracks launch vehicles, destination targets, mission costs, and success rates to extract actionable aerospace insights.
